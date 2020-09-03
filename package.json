@@ -1,0 +1,17 @@
+{
+  "name": "wuziqi-ts-canvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^4.2.2",
+    "less": "^3.12.2",
+    "less-loader": "^7.0.0",
+    "style-loader": "^1.2.1"
+  }
+}
